@@ -6,4 +6,3 @@ miSet.add('Sergio');
 
 // - Modifica el Set original añadiendo el nombre "Javascript" (ya que empieza a formar parte de tu vida ;)
 miSet.add('Javascript');
-console.log(miSet);
